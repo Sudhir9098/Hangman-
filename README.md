@@ -181,4 +181,4 @@ This project is open source and available under the MIT License.
 
 ---
 
-*Enjoy playing Hangman! Challenge yourself to guess the words with as few wrong guesses as possible.* 🎯
+*Enjoy playing Hangman! Challenge yourself to guess the words with as few wrong guesses as possible.* 🎯 
