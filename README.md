@@ -7,7 +7,7 @@ A classic word-guessing game implemented in Python where players try to guess a 
 This Hangman game challenges players to guess a randomly selected word from a predefined list. Players have 6 lives to guess the word correctly. Each incorrect guess results in losing a life and progressing through ASCII art stages of a hangman drawing. The game ends when either the word is completely guessed (win) or all lives are lost (lose).
 
 ## 🎯 Features
-
+ 
 - Random word selection from a fruit-themed word list
 - Interactive letter-by-letter guessing
 - Visual hangman ASCII art progression
