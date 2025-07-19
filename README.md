@@ -17,7 +17,7 @@ This Hangman game challenges players to guess a randomly selected word from a pr
 
 ## 🔧 How It Works
 
-### Game Flow
+  ### Game Flow
 1. **Initialization**: The program randomly selects a word from the predefined list
 2. **Display Setup**: Creates a list of underscores representing each letter in the word
 3. **Game Loop**: Continues until win or lose condition is met
